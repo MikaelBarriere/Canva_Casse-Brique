@@ -1,0 +1,23 @@
+body {
+    background-image: url(../img/wil-stewart-T26KCgCPsCI-unsplash.jpg);
+    color: #F50EB6;
+ 
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+    
+    canvas {
+    border: 1px solid black;
+    background-color: #8d8787;
+    text-align: center;
+    }
+    h1 {
+    text-align: center;
+    color: #F50EB6;
+    }
+    #contenu {
+    text-align: center;
+    margin: auto;
+    }
